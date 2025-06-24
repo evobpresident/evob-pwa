@@ -1,0 +1,40 @@
+<!DOCTYPE html><html lang="bn"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enlightened Volunteers Organization of Bangladesh (EVOB)</title>
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="style.css">
+</head><body>
+    <header>
+        <h1>Enlightened Volunteers Organization of Bangladesh (EVOB)</h1>
+        <h2>আলোকিত স্বেচ্ছাসেবীদের জাতীয় সংগঠন</h2>
+        <p>সভাপতি: শাহরিয়ার হক নাবিল</p>
+        <p>সাধারণ সম্পাদক: নাছিফ আজিজ চৌধুরী</p>
+    </header><main>
+    <section>
+        <h3>আমাদের সম্পর্কে</h3>
+        <p>
+            EVOB একটি অরাজনৈতিক, মানবিক ও স্বেচ্ছাসেবী সংগঠন যা দেশের প্রতিটি জেলা, উপজেলা ও ইউনিয়ন পর্যায়ে তরুণদের একত্র করে
+            সমাজসেবামূলক কার্যক্রম পরিচালনা করে থাকে। আমাদের মূল লক্ষ্য হলো তরুণদের নেতৃত্বে একটি আলোকিত, মানবিক বাংলাদেশ গড়ে তোলা।
+        </p>
+    </section>
+
+    <section>
+        <h3>যোগাযোগ করুন</h3>
+        <ul>
+            <li><a href="form.html">নতুন সদস্য ফর্ম</a></li>
+            <li><a href="features.html">ফিচারসমূহ</a></li>
+            <li><a href="members.html">সদস্য তালিকা</a></li>
+            <li><a href="gallery.html">ফটো গ্যালারি</a></li>
+            <li><a href="notice.html">নোটিশ বোর্ড</a></li>
+            <li><a href="https://facebook.com/evob79000" target="_blank">Facebook পেজ</a></li>
+            <li><a href="contact.html">যোগাযোগ</a></li>
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2025 Enlightened Volunteers Organization of Bangladesh (EVOB)</p>
+</footer>
+
+</body></html>
